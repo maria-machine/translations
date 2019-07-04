@@ -125,10 +125,10 @@ classifier.fit(x,y)
 
 Scikit-learn - один из многих пакетов, используемых разработчиками для облегчения работы с машинным обучением и повышения его эффективности. Но есть и другие не менее популярные:
 
-- TensorFlow
-- Caffe (для глубокого обучения)
-- MLlib (для больших данные)
-- Torch (прежде всего GPU)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Caffe](http://caffe.berkeleyvision.org/) (для глубокого обучения)
+- [MLlib](http://spark.apache.org/mllib/) (для больших данные)
+- [Torch](http://torch.ch/) (прежде всего GPU)
 
 **Онлайн курсы и видео**
 
