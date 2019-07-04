@@ -109,4 +109,4 @@ ML, как и AI, - это не замена, а дополнение к тра�
 
 ---
 
-*Подписывайтесь, лайкайте, хлопайте, репостите! **Это действительно важно, спасибо 🙌🏻** Канал: [maria_machine](https://t.me/maria_machine). Чат: [maria_machine_chat](https://t.me/maria_machine_chat).*
+*Подписывайтесь, лайкайте, хлопайте, репостите! **Это действительно важно, спасибо 🙌🏻** Канал: [maria_machine](https://t.me/maria_machine). Чат: [maria_machine_chat](https://t.me/maria_machine_chat). Twitter: [mariamachine_ml](https://twitter.com/mariamachine_ml). VK: [maria_machine](https://vk.com/maria_machine). FB: [maria.machine.ml](https://www.facebook.com/maria.machine.ml). Github: [maria-machine](https://github.com/maria-machine).*
