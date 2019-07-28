@@ -2,7 +2,7 @@
 
 *Перевод статьи [Ryan Marchildon](https://rangle.io/blog/author/ryan-marchildon), [Jan Scholz](https://rangle.io/blog/author/jan-scholz): [Bringing Artificial Intelligence to the Browser with TensorFlow.js](https://rangle.io/blog/bringing-artificial-intelligence-to-the-browser-with-tensorflow-js)*
 
-![](./tensorflow.png)
+![](./assets/tensorflow.png)
 
 > TensorFlow.js позволяет веб-разработчикам легко создавать и запускать приложения c искусственным интеллектом в браузере, используя только JavaScript.
 
